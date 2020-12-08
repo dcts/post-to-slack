@@ -1,0 +1,16 @@
+{
+  "name": "post-to-slack",
+  "version": "1.0.0",
+  "description": "nodejs wrapper class to post messages to a slack channel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "slack-api",
+    "slack",
+    "nodejs"
+  ],
+  "author": "dcts",
+  "license": "ISC"
+}
